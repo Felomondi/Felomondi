@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felix Omondi</h1>
-<h3 align="center">A sophomore, studying Computer Science and Stats at Vassar College.</h3>
+<h1 align="center">Hi 👋, I'm Felix </h1>
+<h4 align="center">A sophomore, studying Computer Science and Stats at Vassar College.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felomondi&label=Profile%20views&color=0e75b6&style=flat" alt="felomondi" /> </p>
 
