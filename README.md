@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Android UI development, Web Front-end design, and anything related to Web Development.**
 
-- 📫 How to reach me **fomondi@vassar.edu**
-
 - ⚡ Fun fact **It takes me a while to think about my fun facts.**
 
 <h3 align="left">Connect with me:</h3>
