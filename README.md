@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development using Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://felomondi.github.io/FelixOmondi/](https://felomondi.github.io/FelixOmondi/)
-
-- 💬 Ask me about **Android UI development, Web Front-end design, and anything related to Web Development.**
-
-- ⚡ Fun fact **It takes me a while to think about my fun facts.**
+- 💬 Ask me about **Android UI development, Web Front-end design & Full-Stack Web Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
