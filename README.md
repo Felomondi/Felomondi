@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=felomondi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true&v=2)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felomondi&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felomondi&theme=cobalt&hide_border=false&count_private=true&layout=compact&langs_count=10&v=2)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felomondi&theme=cobalt&hide_border=false&count_private=true&layout=compact&langs_count=10&v=3)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=felomondi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
