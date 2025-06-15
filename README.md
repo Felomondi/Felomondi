@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on open-source projects, full-stack web development, and Android Development.<br><br>🌱 Currently Building some stuff.<br><br>💬 Ask me about Android UI development, Web Front-end design & Full-Stack Web Development.<br><br>
+<br><br>🌱 Currently Building some stuff.<br><br>💬<br><br>
 
 
 ## 🌐 Socials:
