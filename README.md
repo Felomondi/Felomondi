@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 Currently Building some stuff.<br><br>💬<br>
+<br>🌱 Currently building things which I believe are important for the future.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felomondi) 
